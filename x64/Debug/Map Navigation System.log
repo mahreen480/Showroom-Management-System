@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+D:\UET Narowal\3rd Semester\Data Structure and Algorithms\Project\Map Navigation System\Graph.cpp(111,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\UET Narowal\3rd Semester\Data Structure and Algorithms\Project\Map Navigation System\Graph.cpp(112,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Map Navigation System.cpp
+  Generating Code...
+  Map Navigation System.vcxproj -> D:\UET Narowal\3rd Semester\Data Structure and Algorithms\Project\Map Navigation System\x64\Debug\Map Navigation System.exe
